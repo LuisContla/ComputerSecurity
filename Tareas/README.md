@@ -22,7 +22,7 @@
 
 | Tarea 8 | Tarea 9 | Tarea 10 | Tarea 11 | Tarea 12 | Tarea 13 | Tarea 14 |
 |-----------|-------------|-----------|-----------|-------------|-------------|-------------|
-| ✅ | ✅ | ✔️ | 📥 | 📥 | ⏳ | ⏳ |
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✔️ | ✔️ |
 
 | Tarea 15 | Tarea 16 | Tarea 17 | Tarea 18 | Tarea 19 | Tarea 20 |
 |-----------|-------------|-----------|-----------|-------------|-------------|
@@ -86,7 +86,7 @@ Investiga y explica con tus propias palabras qué es la tríada CIA (Confidencia
 
 ---
 
-## ✏️ Tarea 10 — "Seguridad en Linux"
+## ✅ Tarea 10 — "Seguridad en Linux"
 
 **Describe y explica (2 páginas a mano):**
 
@@ -94,7 +94,7 @@ El modelo de permisos en Linux (usuario, grupo, otros) y explica cómo funcionan
 
 ---
 
-## ✏️ Tarea 11 — "Seguridad en Windows"
+## ✅ Tarea 11 — "Seguridad en Windows"
 
 **Investiga y compara (2 páginas):**
 
@@ -102,7 +102,7 @@ Las políticas de seguridad local de Windows (secpol.msc) con las Group Policy O
 
 ---
 
-## ✏️ Tarea 12 — "Seguridad en Red"
+## ✅ Tarea 12 — "Seguridad en Red"
 
 **Dibuja y describe (3 páginas):**
 
