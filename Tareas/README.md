@@ -26,7 +26,7 @@
 
 | Tarea 15 | Tarea 16 | Tarea 17 | Tarea 18 | Tarea 19 | Tarea 20 |
 |-----------|-------------|-----------|-----------|-------------|-------------|
-| ✅ | ✅ | ✅ | ⏳ | ⏳ | ⏳ |
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ---
 
@@ -126,7 +126,7 @@ Qué es el sistema CVSS (Common Vulnerability Scoring System) y explica sus tres
 
 ---
 
-## ✏️ Tarea 15 — "Técnicas para la intrusión"
+## ✅ Tarea 15 — "Técnicas para la intrusión"
 
 **Explica y describe (3 páginas):**
 
@@ -134,7 +134,7 @@ Qué es un exploit y la diferencia entre un exploit remoto y uno local. Describe
 
 ---
 
-## ✏️ Tarea 16 — "Ataques de suplantación de identidad"
+## ✅ Tarea 16 — "Ataques de suplantación de identidad"
 
 **Investiga y compara (3 páginas):**
 
@@ -142,7 +142,7 @@ Los siguientes ataques de suplantación: phishing, spear phishing, whaling, vish
 
 ---
 
-## ✏️ Tarea 17 — "Técnicas para escalar privilegios"
+## ✅ Tarea 17 — "Técnicas para escalar privilegios"
 
 **Explica e investiga (3 páginas):**
 
@@ -150,7 +150,7 @@ Qué es la escalación de privilegios y la diferencia entre escalación vertical
 
 ---
 
-## ⏳ Tarea 18 — "Persistencia"
+## ✅ Tarea 18 — "Persistencia"
 
 **Investiga y describe (3 páginas):**
 
@@ -158,7 +158,7 @@ Qué significa "persistencia" en el contexto de un ataque informático y por qu�
 
 ---
 
-## ⏳ Tarea 19 — "Elaboración de reportes"
+## ✏️ Tarea 19 — "Elaboración de reportes"
 
 **Redacta (3 páginas):**
 
@@ -166,7 +166,7 @@ A mano un reporte ejecutivo ficticio de una prueba de penetración. El reporte d
 
 ---
 
-## ⏳ Tarea 20 — "Digital Forensics and Incident Response (DFIR)"
+## ✏️ Tarea 20 — "Digital Forensics and Incident Response (DFIR)"
 
 **Hagan (1 página):**
 
